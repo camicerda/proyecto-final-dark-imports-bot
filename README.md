@@ -30,4 +30,4 @@ confirmarle la disponibilidad al cliente.
 - **Canal de salida:** Telegram
 
 ## Video demo
-[PEGAR ACÁ EL LINK DEL VIDEO CUANDO LO GRABES]
+[https://drive.google.com/file/d/1vp46U_TU6ediAtbCt4g9CUyiVkftGg4N/view?usp=sharing]
