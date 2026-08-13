@@ -12,7 +12,7 @@ confirmarle la disponibilidad al cliente.
 
 | Criterio | Archivo |
 |---|---|
-| Mapa de Arquitectura | `01_Mapa_Arquitectura.pdf` |
+| Mapa de Arquitectura | `01_Mapa_Arquitectura.drawio.pdf` |
 | Estructura de Datos | `02_Estructura_de_Datos.pdf` |
 | Matriz de Costos | `03_Matriz_de_Costos.pdf` |
 | Seguridad y Resiliencia | `04_Seguridad_y_Resiliencia.pdf` |
