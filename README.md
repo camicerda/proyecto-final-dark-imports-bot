@@ -16,11 +16,11 @@ confirmarle la disponibilidad al cliente.
 | Estructura de Datos | `02_Estructura_de_Datos.pdf` |
 | Matriz de Costos | `03_Matriz_de_Costos.pdf` |
 | Seguridad y Resiliencia | `04_Seguridad_y_Resiliencia.pdf` |
-| Dashboard de Control | [Ver dashboard en vivo](https://airtable.com/appNvL50avnuGS5Hv/pag2F6Wb6QZ4H9Caa) |
+| Dashboard de Control | Ver dashboard en vivo](https://airtable.com/appNvL50avnuGS5Hv/pag2F6Wb6QZ4H9Caa) |
 
 ## Archivos técnicos
 - Blueprints de Make: carpeta `blueprints/`
-- Base de datos (modo lectura): [https://airtable.com/appNvL50avnuGS5Hv/shrE11TeZ8RFJHcPr]
+- Base de datos (modo lectura): https://airtable.com/appNvL50avnuGS5Hv/shrE11TeZ8RFJHcPr
 - Screenshots de evidencia:
 
 - ## Stack utilizado
@@ -30,4 +30,4 @@ confirmarle la disponibilidad al cliente.
 - **Canal de salida:** Telegram
 
 ## Video demo
-[https://drive.google.com/file/d/1vp46U_TU6ediAtbCt4g9CUyiVkftGg4N/view?usp=sharing]
+https://drive.google.com/file/d/1vp46U_TU6ediAtbCt4g9CUyiVkftGg4N/view?usp=sharing
